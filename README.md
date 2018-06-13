@@ -10,9 +10,9 @@ A web-based application that reads RSS feeds is given in this project. Using jas
 * [Contributing](#contributing)
 * [Dependencies](#dependencies)
 
-## Instructions to play
+## Instructions to test
 
-Clone or download the game [here]()
+Clone or download the game [here](https://github.com/div88/feed-reader-jasmine.git)
 Open index.html in your favorite browser
 Test is run and all the results are shown at the bottom of the page once the page is loaded
 
